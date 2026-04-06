@@ -1,0 +1,32 @@
+column_aliases:
+  date: [date, txn_date, transaction_date]
+  description: [description, narration, details]
+  amount: [amount, txn_amount, value]
+  type: [type, transaction_type, dr_cr]
+  category: [category, expense_category, income_category]
+
+type_normalization:
+  income: [credit, cr, deposit, received]
+  expense: [debit, dr, withdrawal, paid]
+
+category_normalization:
+  Marketing:
+    - facebook ads
+    - instagram ads
+    - google ads
+    - ads
+    - marketing
+
+  Salaries:
+    - salary
+    - payroll
+    - wages
+    - stipend
+
+  Operations:
+    - rent
+    - electricity
+    - internet
+    - software
+    - subscription
+    - office expense

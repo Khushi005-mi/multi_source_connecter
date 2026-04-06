@@ -1,0 +1,62 @@
+<!-- report.html -->
+
+<html>
+<head>
+    <title>Finance Report</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            background-color: #f9f9f9;
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .summary {
+            margin-bottom: 20px;
+        }
+        .chart {
+            margin: 20px 0;
+        }
+        .insights {
+            margin-top: 20px;
+        }
+        .insights li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personal Finance Report</h1>
+
+    <!-- Step 1 — Summary Section -->
+    <div class="summary">
+        <h2>Summary</h2>
+        <p>Total Inflow: {{ inflow }}</p>
+        <p>Total Outflow: {{ outflow }}</p>
+    </div>
+
+    <!-- Step 2 — Category Breakdown -->
+    <div class="chart">
+        <h2>Category Breakdown</h2>
+        <img src="category_pie.png" alt="Category Pie Chart">
+    </div>
+
+    <!-- Step 3 — Monthly Trend -->
+    <div class="chart">
+        <h2>Monthly Trend</h2>
+        <img src="monthly_trend.png" alt="Monthly Trend Chart">
+    </div>
+
+    <!-- Step 4 — Insights -->
+    <div class="insights">
+        <h2>Insights</h2>
+        <ul>
+            {% for insight in insights %}
+                <li>{{ insight }}</li>
+            {% endfor %}
+        </ul>
+    </div>
+</body>
+</html>
+

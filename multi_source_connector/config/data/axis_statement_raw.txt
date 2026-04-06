@@ -1,0 +1,302 @@
+AXIS BANK ACCOUNT STATEMENT
+
+15-02-24   Amazon Order                833        
+04-01-24   UPI Payment                 3970       
+15-03-24   Zomato                      3058       
+01-03-24   Netflix                     3091       
+09-01-24   Amazon Order                174        
+06-03-24   ATM Withdrawal                         4154
+25-03-24   Razorpay Payment            1248       
+13-01-24   Swiggy                                 6615
+02-03-24   Swiggy                                 5070
+09-01-24   Salary Credit               1176       
+13-03-24   ATM Withdrawal              102        
+15-04-24   Salary Credit               3764       
+13-03-24   Swiggy                                 8282
+11-04-24   Zomato                      3137       
+28-01-24   Client Payment                         2808
+15-01-24   Transfer to savings                    3545
+10-03-24   Transfer to savings                    9054
+22-02-24   Razorpay Payment                       5836
+11-01-24   Transfer to savings                    6247
+02-04-24   Razorpay Payment                       3709
+17-01-24   Salary Credit                          11017
+14-02-24   ATM Withdrawal              3926       
+13-02-24   Electricity Bill                       14059
+23-04-24   Swiggy                                 3103
+11-02-24   Amazon Order                714        
+06-01-24   Interest Credit             261        
+30-04-24   UPI Payment                 2537       
+11-04-24   Amazon Order                           4414
+20-03-24   Amazon Order                           9859
+08-03-24   Amazon Order                           3256
+26-01-24   UPI Payment                            14144
+06-02-24   Zomato                      3697       
+17-01-24   Refund                      1834       
+09-02-24   Salary Credit                          186
+20-03-24   Swiggy                      3175       
+18-01-24   Salary Credit               2237       
+16-02-24   Razorpay Payment            2142       
+10-04-24   Zomato                      1743       
+13-02-24   Interest Credit             2562       
+11-03-24   Refund                                 14384
+15-02-24   Electricity Bill            2514       
+18-04-24   Refund                      1568       
+01-01-24   Transfer to savings         3780       
+23-01-24   Salary Credit               2015       
+17-04-24   UPI Payment                 2223       
+10-01-24   Transfer to savings                    6874
+11-04-24   Swiggy                      379        
+16-02-24   Salary Credit               2600       
+01-04-24   Interest Credit             1035       
+30-01-24   Client Payment              2359       
+17-02-24   Razorpay Payment                       11586
+11-02-24   Zomato                                 6626
+02-01-24   Swiggy                      683        
+09-03-24   Electricity Bill                       5239
+06-02-24   UPI Payment                            13799
+22-01-24   Transfer to savings                    6274
+08-04-24   Razorpay Payment            1881       
+02-02-24   Interest Credit                        8002
+21-04-24   Swiggy                      3616       
+16-01-24   Amazon Order                           3484
+04-02-24   Interest Credit             2453       
+06-03-24   Client Payment                         3183
+28-01-24   Electricity Bill            461        
+30-03-24   Swiggy                      3864       
+01-02-24   Client Payment                         7386
+25-02-24   Electricity Bill                       5856
+05-02-24   Interest Credit             1983       
+08-04-24   UPI Payment                 2037       
+13-03-24   Electricity Bill                       9376
+04-02-24   Netflix                                4570
+26-04-24   Amazon Order                1686       
+11-01-24   Swiggy                                 4229
+26-02-24   Interest Credit             1091       
+13-02-24   Salary Credit                          10229
+08-02-24   Netflix                                5046
+28-02-24   Salary Credit                          5359
+12-03-24   Client Payment              1020       
+20-02-24   ATM Withdrawal              3841       
+07-03-24   Client Payment                         3238
+26-01-24   Salary Credit               3118       
+22-03-24   Salary Credit               2155       
+06-01-24   Client Payment              3866       
+27-02-24   Salary Credit                          8068
+01-01-24   Swiggy                      649        
+06-03-24   Swiggy                                 5522
+25-04-24   Electricity Bill                       960
+25-02-24   UPI Payment                            1697
+14-04-24   ATM Withdrawal                         7797
+02-04-24   Electricity Bill            2998       
+17-04-24   Zomato                      2007       
+08-04-24   Refund                                 1713
+03-04-24   Amazon Order                1208       
+16-03-24   Swiggy                                 219
+16-02-24   Amazon Order                352        
+13-02-24   Refund                      270        
+11-01-24   ATM Withdrawal              2828       
+12-03-24   Salary Credit               1953       
+28-01-24   Netflix                                4231
+07-03-24   Client Payment                         13420
+06-01-24   Client Payment              2545       
+01-04-24   Electricity Bill                       3525
+12-04-24   Zomato                      1903       
+06-04-24   Salary Credit               2275       
+16-03-24   Refund                                 4424
+20-02-24   ATM Withdrawal                         2733
+08-03-24   Amazon Order                3681       
+29-04-24   Client Payment                         6762
+19-01-24   Refund                      3832       
+24-04-24   Refund                                 11114
+07-02-24   Refund                                 6437
+28-03-24   Swiggy                      1066       
+30-04-24   Electricity Bill            584        
+27-04-24   ATM Withdrawal                         3411
+20-02-24   Refund                                 2922
+03-04-24   Swiggy                                 9404
+02-02-24   Refund                      3361       
+22-03-24   Amazon Order                3820       
+30-01-24   Amazon Order                2141       
+26-03-24   UPI Payment                 2105       
+21-02-24   Client Payment              2867       
+25-03-24   Interest Credit             520        
+02-03-24   Refund                      1447       
+11-02-24   UPI Payment                 3536       
+28-01-24   Refund                      3706       
+12-01-24   Transfer to savings                    13844
+16-04-24   Razorpay Payment            3552       
+12-01-24   Netflix                     2648       
+09-04-24   Salary Credit                          7674
+18-03-24   Salary Credit                          1637
+11-02-24   ATM Withdrawal              3955       
+12-04-24   Interest Credit                        10902
+21-02-24   Interest Credit             2617       
+29-02-24   Refund                                 10262
+31-01-24   Electricity Bill            2971       
+04-04-24   Netflix                                6763
+16-02-24   Amazon Order                           11023
+18-03-24   ATM Withdrawal              2983       
+14-01-24   Interest Credit                        10944
+13-03-24   Zomato                      1745       
+23-01-24   Refund                      3526       
+01-01-24   Electricity Bill            1893       
+12-03-24   Amazon Order                           13182
+03-03-24   Transfer to savings         1859       
+19-01-24   UPI Payment                            3276
+14-01-24   Netflix                     1526       
+03-03-24   Amazon Order                           1135
+21-04-24   Electricity Bill            982        
+28-04-24   Refund                      1666       
+28-01-24   ATM Withdrawal              3156       
+26-01-24   Razorpay Payment                       10996
+29-04-24   UPI Payment                 2805       
+20-01-24   Salary Credit               296        
+03-01-24   Interest Credit                        3280
+16-04-24   Razorpay Payment                       12882
+07-03-24   Salary Credit                          8978
+23-02-24   Refund                      644        
+07-02-24   Razorpay Payment            2667       
+20-04-24   Electricity Bill                       3993
+22-02-24   Swiggy                                 10892
+22-01-24   Netflix                                8091
+04-04-24   Client Payment                         13581
+28-03-24   Netflix                                1129
+14-02-24   ATM Withdrawal                         7464
+22-01-24   Netflix                     2938       
+14-03-24   UPI Payment                            14683
+27-01-24   Transfer to savings                    6536
+09-02-24   Netflix                                14293
+24-04-24   Salary Credit                          3510
+06-02-24   Salary Credit               1717       
+10-03-24   Client Payment              230        
+15-02-24   Zomato                                 1783
+07-01-24   Transfer to savings                    4069
+24-01-24   Interest Credit                        1120
+04-03-24   Transfer to savings         1490       
+06-04-24   Zomato                      3015       
+12-03-24   Razorpay Payment                       14154
+28-04-24   Salary Credit                          8735
+08-01-24   Transfer to savings         2426       
+15-04-24   Transfer to savings         1122       
+07-04-24   Client Payment                         9338
+18-02-24   Interest Credit             1852       
+24-01-24   Transfer to savings         856        
+24-03-24   Razorpay Payment            3191       
+21-04-24   Electricity Bill                       4252
+06-02-24   Refund                      673        
+01-02-24   Transfer to savings                    10568
+13-02-24   Refund                                 5916
+02-04-24   Netflix                                13114
+08-02-24   Refund                                 6416
+22-01-24   Salary Credit               197        
+12-03-24   Refund                                 888
+20-04-24   Interest Credit                        3660
+13-04-24   Transfer to savings         1229       
+23-04-24   Refund                      898        
+05-01-24   Interest Credit             731        
+30-04-24   Transfer to savings                    14854
+12-01-24   Razorpay Payment            2257       
+11-02-24   Swiggy                                 121
+08-04-24   Transfer to savings                    5794
+01-03-24   Electricity Bill                       1036
+29-04-24   Zomato                      1971       
+30-01-24   Amazon Order                           4099
+22-02-24   Netflix                     2620       
+29-03-24   Swiggy                                 14606
+05-01-24   Interest Credit             3887       
+08-03-24   Swiggy                                 6192
+22-01-24   ATM Withdrawal                         14771
+22-03-24   Salary Credit                          7263
+17-04-24   Electricity Bill                       6996
+30-04-24   Transfer to savings         1124       
+30-04-24   UPI Payment                 3071       
+18-02-24   Client Payment              3789       
+06-04-24   ATM Withdrawal                         162
+21-02-24   Transfer to savings         2016       
+16-03-24   Netflix                                8108
+17-03-24   Razorpay Payment            2492       
+11-04-24   ATM Withdrawal              3563       
+28-03-24   Transfer to savings         3293       
+02-02-24   Interest Credit                        1295
+07-03-24   Zomato                                 7818
+08-02-24   Swiggy                                 4286
+31-01-24   UPI Payment                 1975       
+12-01-24   Refund                                 10362
+31-03-24   Electricity Bill            2343       
+15-01-24   Amazon Order                           14551
+23-02-24   UPI Payment                            3098
+11-02-24   Client Payment                         13586
+24-03-24   Amazon Order                           3633
+04-01-24   ATM Withdrawal              2867       
+30-03-24   Electricity Bill            1109       
+26-01-24   Amazon Order                           14504
+12-04-24   Refund                                 9775
+22-04-24   Razorpay Payment                       4989
+09-04-24   Swiggy                      1039       
+23-03-24   Salary Credit               1298       
+21-04-24   Refund                                 12322
+01-03-24   Client Payment                         7624
+11-04-24   Refund                                 6295
+30-01-24   Zomato                      3570       
+28-02-24   Swiggy                                 997
+11-03-24   Salary Credit                          1472
+26-01-24   ATM Withdrawal              3346       
+13-03-24   Zomato                      1815       
+21-04-24   Amazon Order                616        
+19-04-24   Electricity Bill            1682       
+07-03-24   Swiggy                                 10808
+23-01-24   Netflix                     1156       
+09-04-24   Razorpay Payment                       10772
+21-03-24   Netflix                                7029
+11-01-24   Netflix                     1374       
+08-04-24   ATM Withdrawal                         4169
+15-04-24   ATM Withdrawal              1590       
+05-03-24   Amazon Order                           821
+05-04-24   Zomato                                 5003
+30-04-24   Salary Credit               1654       
+06-03-24   Zomato                      2009       
+26-03-24   Refund                                 9099
+30-03-24   Client Payment              2993       
+08-02-24   Razorpay Payment            1814       
+01-02-24   Interest Credit             3685       
+05-03-24   Refund                                 11293
+30-01-24   Client Payment                         4858
+21-04-24   Netflix                                4606
+02-01-24   UPI Payment                            961
+13-02-24   Salary Credit               663        
+22-02-24   Electricity Bill                       12211
+31-01-24   Refund                                 7238
+14-03-24   Salary Credit                          2902
+16-04-24   ATM Withdrawal              3555       
+05-02-24   Netflix                                14423
+06-02-24   ATM Withdrawal                         10890
+25-04-24   Zomato                                 4302
+16-04-24   Netflix                     2347       
+16-01-24   Netflix                                10111
+29-03-24   Client Payment              917        
+31-03-24   Zomato                      331        
+13-04-24   Salary Credit               2734       
+19-01-24   Electricity Bill            223        
+15-04-24   Amazon Order                631        
+11-03-24   Transfer to savings         3836       
+25-03-24   Client Payment              2401       
+18-04-24   Swiggy                                 8985
+07-01-24   Interest Credit                        217
+15-02-24   Transfer to savings         698        
+12-02-24   ATM Withdrawal                         10267
+18-01-24   Refund                      2122       
+15-01-24   ATM Withdrawal              3825       
+24-04-24   Swiggy                                 9891
+17-04-24   ATM Withdrawal              1865       
+03-03-24   Zomato                      3571       
+06-02-24   UPI Payment                            14158
+24-01-24   UPI Payment                 2569       
+10-03-24   Refund                                 10606
+11-02-24   Client Payment                         1445
+08-02-24   ATM Withdrawal                         1243
+29-02-24   Zomato                      3151       
+28-02-24   Zomato                                 3892
+20-02-24   Zomato                                 12215
+09-02-24   UPI Payment                            12556
+08-01-24   Amazon Order                1451       
